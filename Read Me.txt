@@ -1,10 +1,8 @@
 Requirements Install Project 
 -----------------------------
-1. VS Code
-2. Python 3.8.5 64bit 
-3. mysql lite ( create database same as mention in project file )
------------------------------
-Install Libaries as Mention in Files of Project 
-------------------------------------------------
-Please Subscribe and Share my Youtube Channel Teach Learn School 
-Here is link : https://www.youtube.com/channel/UCwpFCX_Z4SVkAT_6hPeUnsA 
+Use your own suitable IDE
+-Use mysqla as database
+-Use any python version but udate library or package 
+-Download Xml files from following links
+"https://mega.nz/folder/Py4FTKjZ#Y3xzOdi6R1Rohq7pVXFRUA"
+paste it both  xml files on project folder directly
